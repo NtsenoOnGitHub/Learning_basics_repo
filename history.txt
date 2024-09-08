@@ -1,0 +1,115 @@
+    1  pwd
+    2  pwd
+    3  cd pictures
+    4  cd aubrey ntseno
+    5  mkdir folder1
+    6  cd folder1
+    7  clear
+    8  ls
+    9  pwd
+   10  cd /desktop
+   11  clear
+   12  cd desktop
+   13  cd home
+   14  cd users
+   15  clear
+   16  ls /
+   17  pwd
+   18  cd desktop
+   19  cd ..
+   20  clear
+   21  cd home
+   22  cd ..
+   23  cd aubrey ntseno
+   24  cd aubreyntseno
+   25  ls
+   26  cd AubreyNtseno
+   27  clear
+   28  cd ..
+   29  cd users
+   30  cd Aubrey Ntseno
+   31  cd 'Aubrey Ntseno'
+   32  ls
+   33  clear
+   34  cd desktop
+   35  cd 'coding challenges'
+   36  pwd
+   37  cd desktop
+   38  ls
+   39  cd Coding Challenges
+   40  clear
+   41  cd 'Coding Challenges'
+   42  mkdir git-basic-exercises
+   43  ls
+   44  cd git-basic-exercises
+   45  ls
+   46  git init
+   47  ls
+   48  ls -a
+   49  git status
+   50  touch README.md
+   51  git status
+   52  git add a
+   53  git add -a
+   54  clear
+   55  ls
+   56  git status
+   57  git add
+   58  git add .
+   59  git status
+   60  git log
+   61  git rm .
+   62  git rm 'README.md'
+   63  git status
+   64  git rm --cached 'README.md'
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m 'initial commit'
+   69  git status
+   70  git log
+   71  nano README.md
+   72  cat README.md
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -m 'Second Commit'
+   77  nano README.md
+   78  git add .
+   79  git status
+   80  git commit -m 'third commit'
+   81  git log
+   82  git log
+   83  git check 737d7294b95540ae870ee22f724ddba28d6b49c2
+   84  git checkout 737d7294b95540ae870ee22f724ddba28d6b49c2
+   85  cat README.md
+   86  git checkout main
+   87  cat README.md
+   88  git checkout 12bf179bf54f41cf0d035eab10a92df842c9e22f
+   89  cat README.md
+   90  git checkout main
+   91  cat README.md
+   92  git branch
+   93  git branch milkshake-flavours
+   94  git branch
+   95  git status
+   96  git checkout milkshake-flavours
+   97  git status
+   98  git branch
+   99  git checkout main
+  100  git branch milkshake-flavours
+  101  git checkout milkshake-flavours
+  102  nano milkshakes.md
+  103  cat milkshakes.md
+  104  git status
+  105  git add .
+  106  git status 
+  107  git commit -m 'added initial flavours'
+  108  git log
+  109  git checkout main
+  110  git log
+  111  git branch history
+  112  git checkout history
+  113  git log
+  114  git branch
+  115  history > history.txt
